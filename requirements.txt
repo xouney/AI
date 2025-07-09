@@ -1,0 +1,3 @@
+tkinter
+chardet>=5.0.0
+pathlib
